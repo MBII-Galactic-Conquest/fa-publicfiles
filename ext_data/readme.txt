@@ -53,6 +53,15 @@ g_siegeteam1 "sup_good1" && g_siegeteam "sup_evil1"
 
 Numerical index is based on the eras above.
 
+Neutral Planet Siegeteam Specifics:
+
+"Sup_NTat1"
+
+Sup - Supremacy
+N - Neutral/Planet Defense
+Tat - Planet Name
+1 - Era
+
 Useful Binds:
 
 +set fs_dirbeforepak "1" in command line of MBII launcher
