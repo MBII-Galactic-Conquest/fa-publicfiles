@@ -1,0 +1,33 @@
+//Galactic Conquest/Supremacy character file - Created by 2cwldys & John & FrenZy
+//Siege class def file.
+
+ClassInfo
+{
+	name			"s_1ra_sold"
+	weapons			WP_MELEE|WP_BLASTER_PISTOL|WP_BLASTER|WP_FRAG_NADE|WP_CONC_NADE
+	attributes		MB_ATT_PISTOL,2|MB_ATT_BLASTER,3|MB_ATT_ARMOUR,3|MB_ATT_AMMO,2|MB_ATT_MICRO_GRENADES,1|MB_ATT_FRAGS,1|MB_ATT_CCTRAINING,2|MB_ATT_ASSEMBLE,1
+	maxhealth		75
+	maxarmor		50
+	model			"rebel"
+	skin			"default"
+	uishader		"models/players/rebel/mb2_icon_default"
+	MBClass			"MB_CLASS_BOUNTY_HUNTER"
+	extralives		2
+	speed			0.8
+}
+
+description	"Rebel Soldier
+
+Weaponry:
+Concussion Grenade (1)
+Frag Grenade (1)
+Pistol (2)
+DH-17 (3)
+
+Attributes:
+Reinforcements (2)
+Close Combat Training (2)
+Bounty Hunter Kick
+Assemble
+
+A rebel soldier."
