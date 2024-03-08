@@ -1,2 +1,19 @@
 # fa-publicfiles
-A repository where public pull requests and submissions for character files, and team configs in FA/Legends are stored.
+
+This repository is where any, and all public `FA files` associated with the [Galactic Conquest Handbook](https://docs.google.com/document/d/1jF4Enbs6YByzQLyG6rOvhioEL-ZOb-09sXt7ZAvBOoE/edit?usp=sharing) are stored.
+
+Pull requests are accepted, so long as they are following the necessary `handbook` material.
+
+## Licensing
+
+GPL v3.0 SYNOPSIS
+
+> 1. Anyone can copy, modify and distribute this software.
+> 2. You have to include the license and copyright notice with each and every distribution.
+> 3. You can use this software privately.
+> 4. You can use this software for commercial purposes.
+> 5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.
+> 6. If you modify it, you have to indicate changes made to the code.
+> 7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
+> 8. This software is provided without warranty.
+> 9. The software author or license can not be held liable for any damages inflicted by the software.
