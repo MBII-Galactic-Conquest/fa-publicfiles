@@ -74,6 +74,12 @@ Useful Binds:
 c.cfg
 devmap mb2_duel_dantooine
 
+Useful Information:
+
+MBAssets3 (legends /ext_data/)
+MBAssets2 (weapon models & hud)
+MBAssets (character & weapon sounds)
+MBModelsX (character models)
 
 Base Classes:
 (BH Kick given to soldiers, engineers, spies, jet troopers, and heavy troopers in eras 1, 2, 6, 7, 8)
