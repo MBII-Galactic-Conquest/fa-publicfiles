@@ -25,6 +25,11 @@ Neutral Factions:
 
 (Neutral Factions get soldier and officer only. 20:10 lives)
 
+Era 3 & 4-
+(Czerka)
+
+Czerka Corporation (cz)
+
 Era 6-
 (Remnants)
 
