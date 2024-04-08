@@ -41,6 +41,7 @@ Corporate Sector Authority (ca)
 Operation Shadow Hand (sh)
 Hapes Consortium (hc)
 Greater Maldrood (gm)
+Empire Reborn (er)
 
 Era 7-
 (Criminal Syndicates)
