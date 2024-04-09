@@ -21,6 +21,7 @@ Eras:
 7- EU/Legends Fall of The Black Sun // Criminal Syndicates VS New Republic (nr/bs)
 8- Rise of the First Order // Disney Canon (re/fo)
 9- Rise of the Exile // KOTOR II Dark Wars (ex/st)
+10- Rise of the Empire // Andor Early GCW Era (an/em)
 
 Neutral Factions:
 
@@ -52,6 +53,11 @@ Hutt Cartel (hc)
 Crimson Dawn (cd)
 Crymorah Syndicate (cs)
 
+Era 10-
+(Corporations)
+
+Corporate Sector Authority (csa)
+Pre-Mor Enforcers (pm)
 
 Siegeteam Specifics:
 
