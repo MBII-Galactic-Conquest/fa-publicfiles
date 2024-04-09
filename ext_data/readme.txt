@@ -20,6 +20,7 @@ Eras:
 6- EU/Legends Thrawn's Ascendancy // Imperial Remnants (nr/eh)
 7- EU/Legends Fall of The Black Sun // Criminal Syndicates VS New Republic (nr/bs)
 8- Rise of the First Order // Disney Canon (re/fo)
+9- Rise of the Exile // KOTOR II (ex/st)
 
 Neutral Factions:
 
