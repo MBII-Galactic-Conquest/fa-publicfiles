@@ -56,7 +56,7 @@ Crymorah Syndicate (cs)
 Era 10-
 (Corporations)
 
-Corporate Sector Authority (csa)
+Corporate Sector Authority (ca)
 Pre-Mor Enforcers (pm)
 
 Siegeteam Specifics:
