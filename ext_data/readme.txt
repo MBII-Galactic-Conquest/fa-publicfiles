@@ -20,13 +20,13 @@ Eras:
 6- EU/Legends Thrawn's Ascendancy // Imperial Remnants (nr/eh)
 7- EU/Legends Fall of The Black Sun // Criminal Syndicates VS New Republic (nr/bs)
 8- Rise of the First Order // Disney Canon (re/fo)
-9- Rise of the Exile // KOTOR II (ex/st)
+9- Rise of the Exile // KOTOR II Dark Wars (ex/st)
 
 Neutral Factions:
 
 (Neutral Factions get soldier and officer only. 20:10 lives)
 
-Era 3 & 4-
+Era 3 & 4 & 9-
 (Czerka)
 
 Czerka Corporation (cz)
