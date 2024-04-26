@@ -2,7 +2,7 @@ This is the readme for properly indexing our classes for the Galactic Conquest.
 
 EXAMPLE: s_1ra_sold
 
-SO far, there is currently 8 eras in the handbook.
+SO far, there is currently 10 eras in the handbook.
 1, will be used for the Galactic Civil War.
 
 "s_" = Supremacy
