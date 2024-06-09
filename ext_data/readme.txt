@@ -22,6 +22,10 @@ Eras:
 8- Rise of the First Order // Disney Canon (re/fo)
 9- Rise of the Exile // KOTOR II Dark Wars (ex/st)
 10- Rise of the Empire // Andor Early GCW Era (an/em)
+11- Lego Star Wars // Clones vs Stormtroopers (lca/lem)
+12- Shadows of Dathomir // Halloween Months Zombie Survival (su/zo)
+13- Hordes of the Yuuzhan Vong (ga/vo)
+14- Rise of Darth Krayt // Sith-Imperial War (fe/kr)
 
 Neutral Factions:
 
