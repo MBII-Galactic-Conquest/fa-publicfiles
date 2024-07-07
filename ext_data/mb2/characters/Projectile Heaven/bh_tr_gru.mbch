@@ -1,12 +1,11 @@
-//Galactic Conquest/Supremacy character file - Created by 2cwldys & John
+//Galactic Conquest/Supremacy character file - Created by Stephen & John & FrenZy
 //Siege class def file.
 
 ClassInfo
 {
 	name			"bh_tr_gru"
 	weapons			WP_MELEE|WP_BLASTER_PISTOL
-	attributes		MB_ATT_PISTOL,1|MB_ATT_ARMOUR,3|MB_ATT_ASSEMBLE,1|MB_ATT_GUNBASH
-	holdables		HI_AMMODISP
+	attributes		MB_ATT_PISTOL,1|MB_ATT_ARMOUR,3|MB_ATT_ASSEMBLE,1|MB_ATT_BUNNY_HOP,2|MB_ATT_GUNBASH|MB_ATT_DISP_AMMO,3
 	maxhealth		75
 	maxarmor		50
 	customred		1
@@ -144,5 +143,17 @@ WeaponInfo0
 description	"Team Red - Grunt
 
 Short Respawn (CTF)
+
+Weaponry:
+Concussion Grenade (1)
+Frag Grenade (1)
+Pistol (3)
+E-11 (3)
+
+Attributes:
+Reinforcements (5)
+Close Combat Training (2)
+Dispense Ammo
+Hero Dash
 Gun Bash
 Assemble"

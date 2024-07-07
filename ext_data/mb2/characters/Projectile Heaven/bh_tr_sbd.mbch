@@ -1,4 +1,4 @@
-//Galactic Conquest/Supremacy character file - Created by 2cwldys & John
+//Galactic Conquest/Supremacy character file - Created by Stephen & John & FrenZy
 //Siege class def file.
 
 ClassInfo
@@ -7,6 +7,7 @@ ClassInfo
 	weapons				WP_SBD|WP_MELEE
 
 	attributes		    MB_ATT_GUNBASH
+
 
 	maxhealth			400
 	maxarmor			10

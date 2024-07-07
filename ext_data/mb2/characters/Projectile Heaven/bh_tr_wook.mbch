@@ -1,4 +1,4 @@
-//Galactic Conquest/Supremacy character file - Created by 2cwldys & John
+//Galactic Conquest/Supremacy character file - Created by Stephen & John & FrenZy
 //Siege class def file.
 
 ClassInfo
@@ -108,4 +108,17 @@ WeaponInfo0
 description	"Team Red - Wookiee Soldier
 
 Short Respawn (CTF)
-Gun Bash"
+
+Weaponry:
+Pistol (3)
+Wookiee Bowcaster (3)
+Frag Grenades (2)
+
+Attributes:
+Magnetic Plating (Wookiee Armor)
+Wookiee Health (3)
+Wookiee Strength (3)
+
+Abilities:
+Wookiee Fury (1)
+Gunbash"

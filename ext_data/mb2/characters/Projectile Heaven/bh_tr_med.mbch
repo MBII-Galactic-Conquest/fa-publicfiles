@@ -1,13 +1,13 @@
-//Galactic Conquest/Supremacy character file - Created by 2cwldys & John
+//Galactic Conquest/Supremacy character file - Created by Stephen & John & FrenZy
 //Siege class def file.
 
 ClassInfo
 {
 	name			"bh_tr_med"
 	weapons			WP_MELEE|WP_BLASTER_PISTOL
-	attributes		MB_ATT_PISTOL,1|MB_ATT_ARMOUR,3|MB_ATT_GUNBASH
+	attributes		MB_ATT_PISTOL,1|MB_ATT_ARMOUR,3|MB_ATT_BUNNY_HOP,2|MB_ATT_GUNBASH
 	classflags		CFL_STATVIEWER
-	holdables		HI_MEDPAC|HI_MEDPAC_BIG|HI_HEALTHDISP|HI_ARMORDISP
+	holdables		HI_MEDPAC|HI_MEDPAC_BIG
 	maxhealth		100
 	maxarmor		10
 	customred		1
@@ -142,10 +142,19 @@ WeaponInfo0
 description	"Team Red - Medic
 
 Short Respawn (CTF)
-Stat View
-Health Heal
-Armor Heal
-Gun Bash
 
-Large Bacta
-Small Bacta"
+Weaponry:
+Pulse Grenade (1)
+Frag Grenade (1)
+Pistol (2)
+E-11 (3)
+
+Gadgets:
+Personal Large Bacta
+Personal Small Bacta
+
+Attributes:
+Close Combat Training (2)
+Heal Teammates
+Dodge (1)
+Gun Bash"
